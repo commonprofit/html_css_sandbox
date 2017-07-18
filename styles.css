@@ -1,0 +1,17 @@
+ * {
+        /*background-color: pink;*/
+      }
+      .paragraph {
+        background-color: #3CD0FF;
+        padding-top: 15px;
+        margin-bottom: 6em;
+        border: solid 1px black;
+      }
+      #first-paragraph{
+        font-size: 1.3em;
+      }
+
+      #first-paragraph a{
+        text-decoration: none;
+        color: orange;
+      }
